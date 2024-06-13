@@ -1,0 +1,3 @@
+[submodule "dynamic-website"]
+	path = dynamic-website
+	url = git@github.com:nikitabhaskar/dynamic-website.git
