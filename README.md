@@ -1,4 +1,5 @@
-# Web Development Projects
+#
+## Web Development Projects
 
 #### Projects completed during a semester of web development!
 
